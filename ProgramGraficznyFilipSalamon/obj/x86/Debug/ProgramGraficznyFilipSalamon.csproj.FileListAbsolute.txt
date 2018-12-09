@@ -1,0 +1,7 @@
+C:\Users\Filip\documents\visual studio 2010\Projects\ProgramGraficznyFilipSalamon\ProgramGraficznyFilipSalamon\bin\Debug\ProgramGraficznyFilipSalamon.exe
+C:\Users\Filip\documents\visual studio 2010\Projects\ProgramGraficznyFilipSalamon\ProgramGraficznyFilipSalamon\bin\Debug\ProgramGraficznyFilipSalamon.pdb
+C:\Users\Filip\documents\visual studio 2010\Projects\ProgramGraficznyFilipSalamon\ProgramGraficznyFilipSalamon\obj\x86\Debug\WindowsFormsApplication1.GraphicELO.resources
+C:\Users\Filip\documents\visual studio 2010\Projects\ProgramGraficznyFilipSalamon\ProgramGraficznyFilipSalamon\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Filip\documents\visual studio 2010\Projects\ProgramGraficznyFilipSalamon\ProgramGraficznyFilipSalamon\obj\x86\Debug\ProgramGraficznyFilipSalamon.csproj.GenerateResource.Cache
+C:\Users\Filip\documents\visual studio 2010\Projects\ProgramGraficznyFilipSalamon\ProgramGraficznyFilipSalamon\obj\x86\Debug\ProgramGraficznyFilipSalamon.exe
+C:\Users\Filip\documents\visual studio 2010\Projects\ProgramGraficznyFilipSalamon\ProgramGraficznyFilipSalamon\obj\x86\Debug\ProgramGraficznyFilipSalamon.pdb
